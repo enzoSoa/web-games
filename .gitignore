@@ -1,0 +1,9 @@
+# Editor related
+.idea
+
+# Typescript
+node_modules
+dist
+
+# Rust
+target
